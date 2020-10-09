@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Madison Cohen-McFarlane
 
-You can use the [editor on GitHub](https://github.com/madscm/madscm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Madison Cohen-McFarlane received the B.Eng. degree in biomedical engineering from the University of Guelph, Guelph, ON, Canada, in 2015 and the M.A.Sc. degree in biomedical engineering from Carleton University, Ottawa, Canada in 2017. She is currently pursuing the Ph.D. degree in biomedical engineering at Carleton University, Ottawa, Canada, in the systems and computer engineering department.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+She is developing a system to monitor and track non-speech related vocal sound. The system would be applicable to a variety of respiratory health conditions, including COVID-19, that are prevalent in the older adult population, with the goal of improving quality of life and allowing individuals to safely stay in their homes.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interests
+- Remote Monitoring
+- Audio Signal Processing and Classification
+- Artificial Intelligence
+- Machine and Deep Learning
 
 ```markdown
 Syntax highlighted code block
